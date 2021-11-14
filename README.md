@@ -17,11 +17,7 @@ O login deve ser realizado com o "standard_user" e deve ser
 validado além da URL a visibilidade de um dos itens do cabeçalho
 da página.
 Deve ser adicionado ao carrinho a mochila e a camiseta preta e a
-validação da adição deve ocorrer dentro do carrinho (URL e
-
-Avaliação: Automação de testes com Java, Selenium e Cucumber 2
-
-elemento da página).
+validação da adição deve ocorrer dentro do carrinho (URL e elemento da página).
 Deve ser removido ambos os produtos do carrinho e realizado a
 validação.
 
