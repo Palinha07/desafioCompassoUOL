@@ -1,5 +1,4 @@
 # desafioCompassoUOL
-# Projeto Academia QA Gama & Accenture
 
 <b>Este projeto foi elaborado por:</b>
 <ul>
