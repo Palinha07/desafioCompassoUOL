@@ -47,7 +47,7 @@ Framework responsÃ¡vel por fazer a integração do código java com a linguage
 
 --------------------------------------------------------------------
 ## Como utilizar
-### PrÃ© requisitos
+### Pré requisitos
 - Instalar o java:
 https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
 - Instalar jdk
@@ -123,7 +123,7 @@ src
    |   |   |   |-- cucumber
    |   |   |   |   |-- manoela
    |   |   |   |   |   |-- .gitkeep
-   |   |   |   |   |   |-- validadorTricentis.feature
+   |   |   |   |   |   |-- validador.feature
 test.bat
 test.sh
 </pre>
