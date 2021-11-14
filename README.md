@@ -1,4 +1,4 @@
-# desafioCompassoUOL
+# DesafioCompassoUOL
 
 <b>Este projeto foi elaborado por:</b>
 <ul>
