@@ -1,19 +1,19 @@
-# Projeto Academia QA Gama & Accenture
+# Desafio Compasso UOL
 
 <b>Este projeto foi elaborado por:</b>
 <ul>
 <li>Manoela Paloma https://github.com/Palinha07</li>
 </ul>
 
-# Descri��o do desafio
+# Descrição do desafio
 
-### Criar uma aplica��o Selenium com o seguinte caso de teste
+### Criar uma aplicação Selenium com o seguinte caso de teste
 
 ### Caso de teste 
 
-Preencher fomul�rios no site Tricentis<br>
+Preencher fomulários no site Tricentis<br>
 
-Cen�rio: Preenchendo os formul�rios<br>
+Cenário: Preenchendo os formulários<br>
 Dado que estou no site "http://sampleapp.tricentis.com/101/app.php"<br>
 E clico no campo make escolho a marca da moto "bmw"<br>
 E clico no campo model escolho o modelo da moto "scooter"<br>
@@ -62,7 +62,7 @@ Entao devo visualizar a mensagem "Sending e-mail success!"<br>
 E clicar no botao OK<br>
 
 ----------------------------------------------------------------------
-### link para v�deo da aplica��o funcionando
+### link para vídeo da aplicação funcionando
 
 https://youtu.be/gX7h9XfHpEM<br>
 
@@ -70,25 +70,25 @@ https://youtu.be/gX7h9XfHpEM<br>
 
 ## Tecnologias utilizadas
 :heavy_check_mark: <b>Java</b><br>
-Linguagem de programação para desenvolvimento da aplicação<br>
+Linguagem de programaÃ§Ã£o para desenvolvimento da aplicaÃ§Ã£o<br>
 
 :heavy_check_mark: <b>Maven</b><br>
-Gerenciador de dependências para o Java<br>
+Gerenciador de dependÃªncias para o Java<br>
 
 :heavy_check_mark: <b>Cucumber</b><br>
-Framework responsável por traduzir uma linguagem humana em código Java<br>
+Framework responsÃ¡vel por traduzir uma linguagem humana em cÃ³digo Java<br>
 
 :heavy_check_mark: <b>Selenium</b><br>
-Framework responsável por fazer a integração do código java com a linguagem Gherkin(Cucumber) abrindo o browser fazendo o teste de comportamento<br>
+Framework responsÃ¡vel por fazer a integraÃ§Ã£o do cÃ³digo java com a linguagem Gherkin(Cucumber) abrindo o browser fazendo o teste de comportamento<br>
 
 --------------------------------------------------------------------
 ## Como utilizar
-### Pré requisitos
+### PrÃ© requisitos
 - Instalar o java:
 https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
 - Instalar jdk
 https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html
-- Verificar se o JAVA_HOME está configurado em seu computador
+- Verificar se o JAVA_HOME estÃ¡ configurado em seu computador
 
 
 
